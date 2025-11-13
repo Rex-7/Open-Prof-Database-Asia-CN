@@ -1,7 +1,6 @@
 # 港澳新导师信息库 (Prof-List for CN Students)
 
 [![LICENSE](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/YOUR_REPO_NAME.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/graphs/contributors)
 
 这是一个开源项目，旨在为中国学生（尤其是受10043等政策影响的学生）提供一个集中的、可更新的香港、澳门、新加坡等地区的导师信息数据库。
 
@@ -24,7 +23,7 @@
 
 ##  coverage: 覆盖范围 (Currently Included)
 
-目前数据库中主要包含以下地区的院校：
+目前数据库中主要包含以下地区的院校（欢迎社区帮忙持续添加！）：
 
 * **🇭🇰 香港 (Hong Kong):**
     * 香港科技大学 (HKUST / HKUST-GZ)
@@ -35,10 +34,9 @@
 * **🇲🇴 澳门 (Macau):**
     * 澳门大学 (UM)
 
-* 待添加
 * **🇸🇬 新加坡 (Singapore):**
-    * 新加坡国立大学 (NUS) 
-
+    * 新加坡国立大学 (NUS)
+    * *（待添加更多...）*
 
 ---
 
@@ -54,7 +52,12 @@
 
 本项目的贡献流程非常简单，**不需要你懂 Git**。你只需要在 Google Sheet 中“添加评论”即可：
 
-### 贡献步骤：
+### 👨‍🏫 致教授/导师 (A Note to Professors)
+我们非常欢迎您参与贡献！如果您在列表中看到了自己的名字，并希望更新信息（尤其是**招生情况**），请**选中您名字对应的“备注”单元格**，使用“添加评论”功能，写下您的招生信息（例如：“2026 Fall 尚有 2 个 PhD 名额，欢迎联系”）。我们审核后会立即更新，这将极大地帮助到有需要的学生。感谢您的参与！
+
+---
+
+### 贡献步骤 (所有贡献者)
 
 1.  **打开 [Google Sheet 数据库](https://docs.google.com/spreadsheets/d/1-aqgRgkhkETpyE2Uc50Y3VW57F8u6TO2kQnWprFMfrU/edit?usp=sharing)**。
 2.  **选中单元格**：点击你想要修正或添加备注的那个单元格。
