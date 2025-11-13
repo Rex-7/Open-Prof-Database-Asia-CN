@@ -8,15 +8,14 @@
 [简述10043政策带来的困难，以及本项目如何帮助学生节省时间、精准定位]
 
 ## 如何使用？
-直接点击下方链接，浏览你感兴趣的学校。
-
+下载任意格式的prof list，可以把它上传给LLM工具并结合你自身的情况和研究兴趣进行询问，或者直接查询表格。
 ## 目录 (Table of Contents)
 
 ### 🇭🇰 香港 (Hong Kong)
-* [香港科技大学 (HKUST)](data/HK/HKUST.md)
-* [香港中文大学 (CUHK)](data/HK/CUHK.md)
-* [香港大学 (HKU)](data/HK/HKU.md)
-* [香港理工大学 (PolyU)](data/HK/PolyU.md)
+* [香港科技大学 (HKUST)]
+* [香港中文大学 (CUHK)]
+* [香港大学 (HKU)]
+* [香港理工大学 (PolyU)]
 
 ### 🇲🇴 澳门 (Macau)
 * [澳门大学 (UM)](data/MO/UM.md)
