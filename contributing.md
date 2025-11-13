@@ -37,15 +37,3 @@
 * **主页 (Homepage)**：必须使用 Markdown 链接格式 `[Homepage](URL)`。
 * **备注 (Notes)**：**（选填，但非常重要）**。请添加如 `招PhD`, `华人`, `对10043友好`, `AAAI Fellow`, `刚入职缺学生` 等关键信息。
 
-### 示例 (`data/HK/HKUST.md` 文件内)
-
-```markdown
-# 香港科技大学 (HKUST)
-
-## 计算机科学与工程系 (CSE)
-
-| 老师 (Name) | 大方向 (General Area) | 职称 (Title) | 细化方向 (Specific Area) | 主页 (Homepage) | 备注 (Notes) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 王志荣 (Raymond Wong) | CS | Professor | 数据库, 数据挖掘, 大数据 | `[Homepage](http://www.cse.ust.hk/faculty/raywong/)` | |
-| 杨瓞仁 (Dit-Yan Yeung) | CS | Chair Professor | AI, 机器学习, 深度学习, 推荐系统 | `[Homepage](https://www.cse.ust.hk/~dyyeung/)` | AAAI Fellow |
-| 丁存生 (Cunsheng Ding) | CS | Professor | 密码学, 编码理论 | `[Homepage](http://www.cse.ust.hk/faculty/cding/)` | |
